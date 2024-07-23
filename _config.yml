@@ -16,13 +16,11 @@
 title: More than a random Walk
 email: tngthomasng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Feel free to reach out for inquiries or work collaboration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ngthomas.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: ngthomas.github.io
-twitter_username: FactorGraph
+#twitter_username: FactorGraph
 github_username:  ngthomas
 
 # Build settings
